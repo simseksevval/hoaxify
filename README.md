@@ -1,2 +1,2 @@
-# hoaxify
+# Hoaxify Web Project
 Web Project
